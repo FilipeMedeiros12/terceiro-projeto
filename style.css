@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+ol{
+   display: flex;
+   flex-direction: column;
+   padding: 25px;
+   border: solid 5px white;
+   width: 500px;
+
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-size: 17px;
+}
